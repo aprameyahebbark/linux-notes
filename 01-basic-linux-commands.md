@@ -37,7 +37,7 @@ $ pwd
 Output
 
 ```text
-/home/karthik/Documents
+/home/username/Documents
 ```
 
 ---
@@ -61,7 +61,7 @@ pwd
 prints
 
 ```text
-/home/karthik/Documents/LinuxNotes
+/home/username/Documents/LinuxNotes
 ```
 
 This tells you exactly where you are.
@@ -267,7 +267,7 @@ $ whoami
 Output
 
 ```text
-karthik
+username
 ```
 
 ---
