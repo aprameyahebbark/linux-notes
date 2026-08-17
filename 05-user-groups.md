@@ -1344,6 +1344,6 @@ After mastering **Linux Users and Groups**, the recommended learning sequence is
 7. SSH and Remote Access
 8. Networking Fundamentals
 9. Shell Scripting
-10. Cron Jobs and Automation
+10. Cron Jobs and Automations
 
 These topics build directly on the concepts introduced in this guide and are core skills expected from Linux administrators, cloud engineers, and DevOps professionals and also used in different pipeline implementations and deployment as commands.
