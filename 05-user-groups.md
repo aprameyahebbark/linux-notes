@@ -1316,7 +1316,7 @@ Key takeaways:
 
 ---
 
-# Real-World DevOps Perspective
+# Real-World DevOps Perspective.
 
 Understanding Linux users and groups is essential because almost every DevOps tool relies on these concepts:
 
